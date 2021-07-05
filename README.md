@@ -1,5 +1,5 @@
 #SOUS-CHEF!
-
+(In French) Meaning: Second Chef in Charge 
 (Your Online Cook-book)
 
 -A Full Stack social media platform made with love for all the foodies and aspiring chefs out there,to share your favorite recipes!
