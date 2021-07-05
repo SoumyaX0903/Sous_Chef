@@ -24,5 +24,10 @@ DEPLOYED App_Link:
 
 SCREENSHOTS:
 
+![image](https://user-images.githubusercontent.com/79750961/124504463-27ce1a80-dde5-11eb-9af7-c87b38c62c6c.png)
+
+![image](https://user-images.githubusercontent.com/79750961/124504551-5cda6d00-dde5-11eb-82ac-0db41ec76ab3.png)
+
+
 
 
