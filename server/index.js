@@ -13,6 +13,9 @@ app.use(cors());
 //we specifically have 2 groups of routers one on posts route and one on users route
 app.use('/posts',pr); //posts deal with all the operations regarding our posts
 app.use('/users',ur);// users deal with authentication routes
+app.get("/",(req,res)=>{
+  return res.send("Server is running!")
+})
 const CONNECT_URL="mongodb+srv://"+process.env.NAME+":"+process.env.PASSWORD+"@socialmedia.rznlc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 const PORT= process.env.PORT || 5000;
 mongoose.connect(CONNECT_URL,{useNewUrlParser:true,useUnifiedTopology:true})
