@@ -26,7 +26,7 @@ const Navbar=()=>{
     if (token) {
       const decodedToken = decode(token);
 
-      if (decodedToken.exp * 2000 < new Date().getTime()) logout();//after logging in if 2hrs passes we dispatch logout functionality where our token gets killed
+      if (decodedToken.exp * 3000 < new Date().getTime()) logout();//after logging in if 2hrs passes we dispatch logout functionality where our token gets killed
     }
         setUser(JSON.parse(localStorage.getItem('profile')));
     },[location])
@@ -39,7 +39,7 @@ const Navbar=()=>{
         {user? ( //if our user is currently logged in we display his/her details in our APP BAR
           <div className={classes.profile}>
             <Avatar className={classes.black} alt={user.result.name} src={user.result.imageUrl}>{user.result.name.charAt(0)}</Avatar>
-            <Typography className={classes.userName} variant="h6" style={{fontFamily:"serif",fontWeight:"bold",color:"black",marginRight:"70px"}}>{user.result.name}</Typography>
+            <Typography className={classes.userName} variant="h6" style={{fontFamily:"serif",fontWeight:"bold",color:"black",marginRight:"70px"}}>{user.result.name.split(" ")[0]}</Typography>
             <Button variant="contained" className={classes.logout} style={{background:"black",color:"white"}}onClick={()=>{dispatch({type:'LOGOUT'}); history.push("/");setUser(null);}}>Logout</Button> 
           </div>
         ) : ( //on our logout click we clear the local storage and remove the user and on sign in we redirect him/her to Authenticate himself/herself

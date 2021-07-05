@@ -1,0 +1,25 @@
+*Both of us have complete knowledge about the entire application that we made*
+
+*Both of us worked on both client and server side of the application*
+
+*The Design and the UI components have jointly been decided*
+
+*As we live in the same city we collaborated together*
+
+*The app functionalities were divided among us*
+
+Adrija Chattopadhyay  (1905588)                                          Soumyadeep Dutta      (1905640)
+------------------------------                                           --------------------------------
+1. Google OAuth authentication , Manual Signin Client Side              1. Manual user authentication using JWT (Server side)
+
+2. Creating a post,Deletion of a post                                   2. Updating a post , modifying likes
+
+3. Pagination of the application                                        3. Opening the post details page
+
+4. Recommendation of similar posts                                      4. Adding comments to the post details
+
+5. Searching the posts by tags                                          5. Searching the posts by their title
+
+
+
+*Even though the functionalities were divided both of us are well versed about each others work*
