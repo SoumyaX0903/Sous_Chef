@@ -18,6 +18,8 @@
 
 -Tech stack used : MERN
 
+Contributors : Adrija Chattopadhyay 1905588; Myself(Soumyadeep Dutta 1905640) :: Check contribution of team mates 'txt' file for details. 
+
 LIVE DEMO: https://www.youtube.com/watch?v=T0c3XkveOfg&ab_channel=soumyadeepdutta
 
 DEPLOYED App_Link:
