@@ -1,4 +1,4 @@
-SOUS-CHEF!
+#SOUS-CHEF!
 
 (Your Online Cook-book)
 
@@ -18,7 +18,7 @@ SOUS-CHEF!
 
 -Tech stack used : MERN
 
-LIVE DEMO: 
+LIVE DEMO: https://www.youtube.com/watch?v=T0c3XkveOfg&ab_channel=soumyadeepdutta
 
 DEPLOYED App_Link:
 
