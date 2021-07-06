@@ -12,4 +12,12 @@ export default makeStyles((theme) => ({
   actionDiv: {
     textAlign: 'center',
   },
+  image:{
+    height:"300px",
+    width:"500px",
+    border:"2px solid white",
+    borderRadius:"30px",
+    marginTop:"80px",
+    marginLeft:"40px"
+  }
 }));

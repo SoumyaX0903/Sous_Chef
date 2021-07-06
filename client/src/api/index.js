@@ -1,5 +1,5 @@
 import axios from 'axios'
-const API=axios.create({baseURL:'http://localhost:5000'})
+const API=axios.create({baseURL:'https://sous-chef-server.herokuapp.com/'})
 API.interceptors.request.use((req) => { //to send our user token to the middleware 
     if (localStorage.getItem('profile')) {
       req.headers.Authorization = `Bearer ${JSON.parse(localStorage.getItem('profile')).token}`;
