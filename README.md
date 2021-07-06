@@ -5,7 +5,7 @@
 (In French) Meaning: Second Chef in Charge 
 (Your Online Cook-book)
 
--A Full Stack social media platform made with love for all the foodies and aspiring chefs out there,to share your favorite recipes!
+-A Full Stack social media platform made with love for all the foodies and aspiring chefs out there,to share their favorite recipes!
 
 -Users with proper authentication can log in and post/update/delete their recipes along with images of the dish. 
 
