@@ -22,7 +22,7 @@ Contributors : Adrija Chattopadhyay 1905588; Myself(Soumyadeep Dutta 1905640) ::
 
 LIVE DEMO: https://www.youtube.com/watch?v=T0c3XkveOfg&ab_channel=soumyadeepdutta
 
-DEPLOYED App_Link: https://souschefrecipes.netlify.app/posts
+DEPLOYED App_Link: https://souschefrecipes.netlify.app
 
 SCREENSHOTS:
 
