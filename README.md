@@ -26,9 +26,19 @@ DEPLOYED App_Link: https://souschefrecipes.netlify.app
 
 SCREENSHOTS:
 
+
 ![image](https://user-images.githubusercontent.com/79750961/124504463-27ce1a80-dde5-11eb-9af7-c87b38c62c6c.png)
 
+
 ![image](https://user-images.githubusercontent.com/79750961/124504551-5cda6d00-dde5-11eb-82ac-0db41ec76ab3.png)
+
+
+![image](https://user-images.githubusercontent.com/79750961/124596950-7d0b3a00-de80-11eb-91f9-b2f89cc4e4d4.png)
+
+
+![image](https://user-images.githubusercontent.com/79750961/124596996-8b595600-de80-11eb-9d99-20d897f1c516.png)
+
+
 
 
 
