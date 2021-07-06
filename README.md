@@ -1,4 +1,8 @@
-#SOUS-CHEF!
+#SOUS-CHEF!    ![cooking](https://user-images.githubusercontent.com/79750961/124622176-82747e80-de98-11eb-836a-7d86be2c9a18.png)
+
+
+
+
 (In French) Meaning: Second Chef in Charge 
 (Your Online Cook-book)
 
