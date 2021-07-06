@@ -1,5 +1,5 @@
 #SOUS-CHEF!
-
+(In French) Meaning: Second Chef in Charge 
 (Your Online Cook-book)
 
 -A Full Stack social media platform made with love for all the foodies and aspiring chefs out there,to share your favorite recipes!
@@ -18,9 +18,11 @@
 
 -Tech stack used : MERN
 
+Contributors : Adrija Chattopadhyay 1905588; Myself(Soumyadeep Dutta 1905640) :: Check contribution of team mates 'txt' file for details. 
+
 LIVE DEMO: https://www.youtube.com/watch?v=T0c3XkveOfg&ab_channel=soumyadeepdutta
 
-DEPLOYED App_Link:
+DEPLOYED App_Link: https://souschefrecipes.netlify.app/posts
 
 SCREENSHOTS:
 
